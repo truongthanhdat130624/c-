@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#\\bai kt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{811C022F-1DC8-4662-B878-96465746712C}|bai kt\\bai kt.csproj|E:\\c#\\bai kt\\bai kt\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{811C022F-1DC8-4662-B878-96465746712C}|bai kt\\bai kt.csproj|solutionrelative:bai kt\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811C022F-1DC8-4662-B878-96465746712C}|bai kt\\bai kt.csproj|e:\\c#\\bai kt\\bai kt\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811C022F-1DC8-4662-B878-96465746712C}|bai kt\\bai kt.csproj|solutionrelative:bai kt\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811C022F-1DC8-4662-B878-96465746712C}|bai kt\\bai kt.csproj|E:\\c#\\bai kt\\bai kt\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811C022F-1DC8-4662-B878-96465746712C}|bai kt\\bai kt.csproj|solutionrelative:bai kt\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811C022F-1DC8-4662-B878-96465746712C}|bai kt\\bai kt.csproj|E:\\c#\\bai kt\\bai kt\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811C022F-1DC8-4662-B878-96465746712C}|bai kt\\bai kt.csproj|solutionrelative:bai kt\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811C022F-1DC8-4662-B878-96465746712C}|bai kt\\bai kt.csproj|E:\\c#\\bai kt\\bai kt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811C022F-1DC8-4662-B878-96465746712C}|bai kt\\bai kt.csproj|solutionrelative:bai kt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811C022F-1DC8-4662-B878-96465746712C}|bai kt\\bai kt.csproj|E:\\c#\\bai kt\\bai kt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811C022F-1DC8-4662-B878-96465746712C}|bai kt\\bai kt.csproj|solutionrelative:bai kt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811C022F-1DC8-4662-B878-96465746712C}|bai kt\\bai kt.csproj|E:\\c#\\bai kt\\bai kt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{811C022F-1DC8-4662-B878-96465746712C}|bai kt\\bai kt.csproj|solutionrelative:bai kt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\c#\\bai kt\\bai kt\\Form2.cs",
+              "RelativeDocumentMoniker": "bai kt\\Form2.cs",
+              "ToolTip": "E:\\c#\\bai kt\\bai kt\\Form2.cs",
+              "RelativeToolTip": "bai kt\\Form2.cs",
+              "ViewState": "AQIAADYBAAAAAAAAAAAQwEUBAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:00:03.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#\\bai kt\\bai kt\\Program.cs",
+              "RelativeDocumentMoniker": "bai kt\\Program.cs",
+              "ToolTip": "E:\\c#\\bai kt\\bai kt\\Program.cs",
+              "RelativeToolTip": "bai kt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:09:31.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "E:\\c#\\bai kt\\bai kt\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "bai kt\\Form2.Designer.cs",
+              "ToolTip": "E:\\c#\\bai kt\\bai kt\\Form2.Designer.cs",
+              "RelativeToolTip": "bai kt\\Form2.Designer.cs",
+              "ViewState": "AQIAAEUBAAAAAAAAAAAYwFMBAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:04:20.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\bai kt\\bai kt\\Form2.cs",
+              "RelativeDocumentMoniker": "bai kt\\Form2.cs",
+              "ToolTip": "E:\\c#\\bai kt\\bai kt\\Form2.cs [Design]",
+              "RelativeToolTip": "bai kt\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:59:43.484Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\c#\\bai kt\\bai kt\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "bai kt\\Form1.Designer.cs",
+              "ToolTip": "E:\\c#\\bai kt\\bai kt\\Form1.Designer.cs",
+              "RelativeToolTip": "bai kt\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:57:49.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\c#\\bai kt\\bai kt\\Form1.cs",
+              "RelativeDocumentMoniker": "bai kt\\Form1.cs",
+              "ToolTip": "E:\\c#\\bai kt\\bai kt\\Form1.cs",
+              "RelativeToolTip": "bai kt\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:56:34.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\bai kt\\bai kt\\Form1.cs",
+              "RelativeDocumentMoniker": "bai kt\\Form1.cs",
+              "ToolTip": "E:\\c#\\bai kt\\bai kt\\Form1.cs [Design]",
+              "RelativeToolTip": "bai kt\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:47:36.68Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1118,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

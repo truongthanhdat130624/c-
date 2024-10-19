@@ -1,0 +1,11 @@
+E:\c#\bai kt\bai kt\bin\Debug\bai kt.exe.config
+E:\c#\bai kt\bai kt\bin\Debug\bai kt.exe
+E:\c#\bai kt\bai kt\bin\Debug\bai kt.pdb
+E:\c#\bai kt\bai kt\obj\Debug\bai kt.csproj.AssemblyReference.cache
+E:\c#\bai kt\bai kt\obj\Debug\bai_kt.Form1.resources
+E:\c#\bai kt\bai kt\obj\Debug\bai_kt.Form2.resources
+E:\c#\bai kt\bai kt\obj\Debug\bai_kt.Properties.Resources.resources
+E:\c#\bai kt\bai kt\obj\Debug\bai kt.csproj.GenerateResource.cache
+E:\c#\bai kt\bai kt\obj\Debug\bai kt.csproj.CoreCompileInputs.cache
+E:\c#\bai kt\bai kt\obj\Debug\bai kt.exe
+E:\c#\bai kt\bai kt\obj\Debug\bai kt.pdb
